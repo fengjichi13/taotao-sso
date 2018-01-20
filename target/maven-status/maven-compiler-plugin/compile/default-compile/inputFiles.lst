@@ -1,7 +1,7 @@
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\controller\PageController.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\service\impl\UserServiceImpl.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientCluster.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientSingle.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\dao\JedisClient.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\service\UserService.java
-E:\shop\taotao-sso\src\main\java\com\taotao\sso\controller\UserController.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\controller\PageController.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\dao\JedisClient.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientCluster.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\service\impl\UserServiceImpl.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\service\UserService.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientSingle.java
+C:\project\shop\taotao-sso\src\main\java\com\taotao\sso\controller\UserController.java
