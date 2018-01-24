@@ -11,7 +11,7 @@
 <body>
 <div class="w">
     <div id="logo">
-    	<a href="http://www.taotao.com" clstag="passport|keycount|login|01">
+    	<a href="http://www.shop.com" clstag="passport|keycount|login|01">
     		<img src="/images/taotao-logo.gif" alt="淘淘" width="170" height="60"/>
     	</a><b></b>
    	</div>
@@ -79,7 +79,8 @@
 					if (data.status == 200) {
 						alert("登录成功！");
 						if (redirectUrl == "") {
-							location.href = "http://www.taotao.com";
+						
+							location.href = "http://www.shop.com";
 						} else {
 							location.href = redirectUrl;
 						}
